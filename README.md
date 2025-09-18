@@ -4,13 +4,23 @@ This is the **backend for my personal portfolio website**, built with **Sanity C
 
 ---
 
-## 🌐 Frontend
+## 🌐 Frontend & Live Demo
 
-This backend powers the **frontend portfolio website**:  
-[ChaoGlenXu-Portfolio-website](https://github.com/ChaoGlenXu/ChaoGlenXu-Portfolio-website)  
+- **Frontend GitHub Repository:** [ChaoGlenXu-Portfolio-website](https://github.com/ChaoGlenXu/ChaoGlenXu-Portfolio-website)  
+- **Live Portfolio Website:** [chaoglenxu-portfolio.netlify.app](https://chaoglenxu-portfolio.netlify.app/)
+
 The frontend is built with React, Framer Motion, SCSS, and JavaScript, and it fetches content dynamically from this backend via Sanity CMS.
 
+<img width="1262" height="791" alt="Screenshot 2025-09-18 at 2 43 34 AM" src="https://github.com/user-attachments/assets/78aaecf6-e290-4ac4-97bb-6613fd9d58ed" />
+
 ---
+
+## 🖼️ Screenshots
+
+Below is a screenshot showing how I add and manage portfolio content, skills, testimonials, and contact form messages directly through the Sanity Studio web interface.
+
+
+
 
 ## 🖥️ Tech Stack
 
